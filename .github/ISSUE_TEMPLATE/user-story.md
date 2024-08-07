@@ -1,6 +1,7 @@
-**As a** [role]  
-**I need** [function]  
-**So that** [benefit]  
+### User Story
+      **As a** [role]  
+      **I need** [function]  
+      **So that** [benefit]  
       
 ### Details and Assumptions
     * [document what you know]      
